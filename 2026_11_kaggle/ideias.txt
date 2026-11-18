@@ -1,0 +1,4 @@
+excluir duplicados # Mudou nada
+excluir colunas de pouca relevancia
+Usar todos os dados para treino
+equilibrar as classes
