@@ -2,3 +2,5 @@ excluir duplicados                      # Mudou nada
 excluir colunas de pouca relevancia     # Piorou
 Usar todos os dados para treino         
 equilibrar as classes
+comput class wheights : dar pesos as features
+feature engenier

@@ -1,0 +1,16 @@
+# Undersampling com NearMiss
+# Oversampling com SMOTE
+# E se eu so mudar o trashold?
+
+colocar peso nos erros
+quando o modelo errar uma classe minoritaria, penaliza mais.
+
+
+Não pode aplicar as tecnicas antes de separar treino, teste e validação.
+por que? validação representa o mundo real, ou seja, tem que ter um balanceamento compativel com a vida real
+
+oversample no treino, mas nao na validação.
+
+cross_val_score
+
+# comput class wheights
