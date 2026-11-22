@@ -1,6 +1,6 @@
 excluir duplicados                      # Mudou nada
 excluir colunas de pouca relevancia     # Piorou
-Usar todos os dados para treino         
-equilibrar as classes
+Usar todos os dados para treino         # Melhorou
+equilibrar as classes                   # Fiz oversampling com SMOTE e piorou
 comput class wheights : dar pesos as features
 feature engenier
