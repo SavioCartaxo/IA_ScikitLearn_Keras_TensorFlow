@@ -13,3 +13,6 @@ O solved_06 foi para 0.94311
  -> Feature engenier com outras 2 classes
 O solved_07 melhorou para 0.94537
  -> ajuste das metricas
+O solved_08
+ -> divisão das categorias em channel talvez possa ser reduzido a presencial ou online -> deu errado
+ -> auth_method	foi dividido em com autentificacao e sem autentificacao
